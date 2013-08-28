@@ -63,4 +63,16 @@
     <string name="returnToBasic">返回到基本面板</string>
 
     <string name="pref_about">关于</string>
+
+    <!-- Clings -->
+    <string name="cling_simple_title">欢迎</string>
+    <string name="cling_simple_msg">左右滑动来访问更多内容。可以在设置中禁用不必要的页面。</string>
+    <string name="cling_matrix_title">矩阵</string>
+    <string name="cling_matrix_msg">点击此处来建立和求解矩阵</string>
+    <string name="cling_hex_title">更改进制</string>
+    <string name="cling_hex_msg">在十进制 (dec) 二进制 (bin) 和 十六进制 (hex) 之间切换。\n\警告: 如果你认为你得到了错误的结果, 一般是进制选错了。默认是十进制。</string>
+    <string name="cling_graph_title">函数图像</string>
+    <string name="cling_graph_msg">函数图像将在这里自动显示。前往高级面板，使用X和Y建立一个函数。</string>
+    <string name="cling_dismiss">确认</string>
+
 </resources>
